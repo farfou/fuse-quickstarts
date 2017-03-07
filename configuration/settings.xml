@@ -9,7 +9,6 @@
       <host>10.196.209.4</host>
       <port>3128</port>
     </proxy>
-  </proxies>
   <proxy>
       <id>fuse-proxy-2</id>
       <active>true</active>
